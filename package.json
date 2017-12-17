@@ -1,0 +1,19 @@
+{
+  "name": "@hirojs/signals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hirojs/signals.git"
+  },
+  "author": "Jason Frame <jwf@jasonframe.co.uk> (http://jasonfra.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirojs/signals/issues"
+  },
+  "homepage": "https://github.com/hirojs/signals#readme"
+}
